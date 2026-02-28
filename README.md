@@ -55,14 +55,6 @@
 
 ---
 
-## 🎯 Professional Direction
-
-Focused on becoming a highly skilled backend developer,  
-building structured, reliable and scalable systems —  
-especially in financial and enterprise environments.
-
----
-
 ## 🚀 Philosophy
 
 > "Strong fundamentals build strong systems."
