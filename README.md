@@ -1,6 +1,7 @@
 # Hi 👋,  I'm Leonardo Teles 
 
 🚀  **Software Engineer | Java & COBOL**
+
 🇧🇷 Brazil
 
 ## 🌐 Where to find me
