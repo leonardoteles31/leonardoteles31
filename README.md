@@ -19,13 +19,14 @@
 
 ## 🧠 What I Focus On
 
-- 🏦 Backend systems development  
-- ⚙️ Java & Spring Boot applications  
-- 🧾 COBOL & legacy system integration  
-- 🗂️ Clean code & software organization  
-- 🧩 Object-Oriented Programming  
-- 🔄 APIs & system communication  
-- 📚 Continuous learning & solid fundamentals  
+🏦 Backend Development
+🔐 Cybersecurity
+🐍 Python & FastAPI
+☕ Java & Spring Boot
+🧩 Object-Oriented Programming
+🌐 Network & API Security
+🗄️ SQL & Database Fundamentals
+📚 Continuous Learning
 
 ---
 
