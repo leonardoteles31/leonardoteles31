@@ -1,6 +1,6 @@
 # Hi 👋,  I'm Leonardo Teles 
 
-🚀  **Software Engineer | Java & COBOL**
+🚀  **Software Engineer | Java & Python**
 
 🇧🇷 Brazil
 
@@ -31,19 +31,18 @@
 
 ## 🛠️ Tech Stack
 
-### Backend
-
+### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Additional Knowledge
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
