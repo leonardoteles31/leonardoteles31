@@ -19,14 +19,14 @@
 
 ## 🧠 What I Focus On
 
-🏦 Backend Development
-🔐 Cybersecurity
-🐍 Python & FastAPI
-☕ Java & Spring Boot
-🧩 Object-Oriented Programming
-🌐 Network & API Security
-🗄️ SQL & Database Fundamentals
-📚 Continuous Learning
+- 🏦 Backend Development
+- 🔐 Cybersecurity
+- 🐍 Python & FastAPI
+- ☕ Java & Spring Boot
+- 🧩 Object-Oriented Programming
+- 🌐 Network & API Security
+- 🗄️ SQL & Database Fundamentals
+- 📚 Continuous Learning
 
 ---
 
