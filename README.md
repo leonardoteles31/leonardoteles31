@@ -1,67 +1,71 @@
-# Hi 👋,  I'm Leonardo Teles 
+# 🛡️ Hi there, I'm Leo!
 
-🚀  **Software Engineer | Java & Python**
+<div align="center">
 
-🇧🇷 Brazil
+![Cybersecurity Header](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Ethical%20Hacking-00FF00?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## 🌐 Where to find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardotelesdeoliveira)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/blysk)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/profile/your-id](https://profile.hackthebox.com/profile/01a017d8-7b68-70a5-a928-e3e32cce09b9?utm_medium=copy_url))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-<p align="left">
-  <a href="https://github.com/leonardoteles31">
-    <img src="https://img.shields.io/badge/GitHub-leonardoteles31-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/leonardotelesdeoliveira">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧠 What I Focus On
+## 🎯 About Me
 
-- 🏦 Backend Development
-- 🔐 Cybersecurity
-- 🐍 Python & FastAPI
-- ☕ Java & Spring Boot
-- 🧩 Object-Oriented Programming
-- 🌐 Network & API Security
-- 🗄️ SQL & Database Fundamentals
-- 📚 Continuous Learning
+Cybersecurity specialist/student focused on **[Offense/Defense - Red Team / Pentesting]**. Backed by a strong background in software development, networking, and operating systems, allowing me to thoroughly understand both the building and the exploitation/mitigation of vulnerabilities.
+
+- 🎓 Studying **CyberSecurity - FIAP**.
+- 🎯 Current focus: **Currently focused on building a strong foundation in Cybersecurity, with a long-term goal of specializing in Red Team and Penetration Testing**.
+- 🌐 Languages: **Portuguese (Native)** | **English (Intermediate/Advanced)**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛡️ Technical Skills & Tools
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### **Security & Analysis**
+`Offensive Security` `Pentesting` `Vulnerability Assessment` `Log Analysis (SIEM)` `Digital Forensics Basics`
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### **Tools & Environments**
+`Kali Linux` `Wireshark` `Nmap` `Burp Suite` `Metasploit` `Splunk` `Docker` `Git`
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+### **Systems & Networking**
+`Linux (Debian/Arch/RHEL)` `Windows Server / Active Directory` `TCP/IP` `Firewalls` `VPNs`
+
+### **Programming & Scripting**
+`Python` `Bash` `Java` `C/C++` `SQL`
+
+---
+
+## 🚀 Featured Projects & Labs
+
+### 🔍 1. [TCP Chat](link-to-repo-1)
+> *Client-server TCP chat application developed in Python, focused on network communication and socket programming.*
+- **Languages/Tools:** Python, TCP Sockets, Threading, PySide6.
+- **Highlights:** Client-server architecture, TCP communication, concurrent connections, nickname system, and graphical interface.
+
+### 🧪 2. [Active Directory Hands-On Lab](link-to-repo-2)
+> *Practical network security laboratory developed as part of my cybersecurity studies, exploring firewall, WAF and SIEM concepts.*
+- **Scope:** pfSense firewall, DMZ, internal network segmentation, web access control, firewall rules and security monitoring concepts.
+- **Tools:** pfSense, WAF, SIEM, Virtual Machines.
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoteles31&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoteles31&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
 
 ---
 
-## 🚀 Philosophy
+<div align="center">
 
-> "You have power over your mind, not outside events.  
-> Realize this, and you will find strength."  
-> — Marcus Aurelius
+*“Security is a process, not a product.” – Bruce Schneier*
 
----
+💬 Feel free to connect, collaborate on projects, or chat about cybersecurity!
 
-⭐ Always improving  
-🤝 Open to opportunities, collaboration and challenges
+</div>
