@@ -41,12 +41,12 @@ Cybersecurity specialist/student focused on **[Offense/Defense - Red Team / Pent
 
 ## 🚀 Featured Projects & Labs
 
-### 🔍 1. [TCP Chat]([link-to-repo-1](https://github.com/leonardoteles31/TCPChat.git))
+### 🔍 1. [TCP Chat]([(https://github.com/leonardoteles31/TCPChat.git])
 > *Client-server TCP chat application developed in Python, focused on network communication and socket programming.*
 - **Languages/Tools:** Python, TCP Sockets, Threading, PySide6.
 - **Highlights:** Client-server architecture, TCP communication, concurrent connections, nickname system, and graphical interface.
 
-### 🧪 2. [Network Security - Firewall, WAF, SIEM]([link-to-repo-2](https://github.com/leonardoteles31/Network-Security---Firewall-WAF-SIEM.git))
+### 🧪 2. [Network Security - Firewall, WAF, SIEM]([(https://github.com/leonardoteles31/Network-Security---Firewall-WAF-SIEM.git)])
 > *Practical network security laboratory developed as part of my cybersecurity studies, exploring firewall, WAF and SIEM concepts.*
 - **Scope:** pfSense firewall, DMZ, internal network segmentation, web access control, firewall rules and security monitoring concepts.
 - **Tools:** pfSense, WAF, SIEM, Virtual Machines.
