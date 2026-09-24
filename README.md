@@ -41,7 +41,7 @@ Cybersecurity specialist/student focused on **[Offense/Defense - Red Team / Pent
 
 ## 🚀 Featured Projects & Labs
 
-### 🔍 1. [TCP Chat]([(https://github.com/leonardoteles31/TCPChat.git])
+### 🔍 1. [TCP Chat]([(https://github.com/leonardoteles31/TCPChat.git]))
 > *Client-server TCP chat application developed in Python, focused on network communication and socket programming.*
 - **Languages/Tools:** Python, TCP Sockets, Threading, PySide6.
 - **Highlights:** Client-server architecture, TCP communication, concurrent connections, nickname system, and graphical interface.
